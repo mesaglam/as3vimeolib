@@ -1,0 +1,1 @@
+The Vimeo library is an AS 3 API. It provides access to the Vimeo API.
